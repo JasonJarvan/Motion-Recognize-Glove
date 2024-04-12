@@ -17,13 +17,13 @@ ADXL345_cn.pdf 是ADXL345数据手册
 ADXL345_sch.pdf 是ADXL345电路图
 注意要购买支持5V的模块，否则要买5V转3.3V的变压器
 
-Arduino Micro引脚图
+![Arduino Micro引脚图](https://github.com/JasonJarvan/Hand-Motion-Recognize-Wearable-Device/blob/main/Arduino%20Mirco%E5%BC%95%E8%84%9A%E5%9B%BEpng.png)
 
 ## 线路
 
-传感器走线图.jpg
+![传感器走线图](https://github.com/JasonJarvan/Hand-Motion-Recognize-Wearable-Device/blob/main/%E4%BC%A0%E6%84%9F%E5%99%A8%E8%B5%B0%E7%BA%BF%E5%9B%BE.jpg)
 
-可弯曲传感器走线图.jpg
+![可弯曲传感器走线图](https://github.com/JasonJarvan/Hand-Motion-Recognize-Wearable-Device/blob/main/%E5%8F%AF%E5%BC%AF%E6%9B%B2%E4%BC%A0%E6%84%9F%E5%99%A8%E8%B5%B0%E7%BA%BF%E5%9B%BE.jpg)
 
 ## 源码
 安装Arduino
@@ -63,4 +63,4 @@ void setup() {
 
 最后把这个air_mouse传到arduino上就可以了。
 
-实现视频如 传感器鼠标功能测试.mp4
+实现视频如 ![传感器鼠标功能测试](https://github.com/JasonJarvan/Hand-Motion-Recognize-Wearable-Device/blob/main/%E4%BC%A0%E6%84%9F%E5%99%A8%E9%BC%A0%E6%A0%87%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95.mp4)
