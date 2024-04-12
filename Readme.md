@@ -14,7 +14,9 @@
 
 ## 资料
 ADXL345_cn.pdf 是ADXL345数据手册
+
 ADXL345_sch.pdf 是ADXL345电路图
+
 注意要购买支持5V的模块，否则要买5V转3.3V的变压器
 
 ![Arduino Micro引脚图](https://github.com/JasonJarvan/Hand-Motion-Recognize-Wearable-Device/blob/main/Arduino%20Mirco%E5%BC%95%E8%84%9A%E5%9B%BEpng.png)
